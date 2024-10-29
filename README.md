@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **.NET, React.js, Next,js ,Flutter**
 
-- 📫 How to reach me **kadirhangsaglam0@gmail.com**
+- 📫 How to reach me **kadirhansaglam0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
