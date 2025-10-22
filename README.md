@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Angular.js**
 
-- 👨‍💻 All of my projects are available at [https://www.canva.com/design/DAFxarj5HIQ/DWJTQk0X94_fpneUJ42cJA/edit?utm_content=DAFxarj5HIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFxarj5HIQ/DWJTQk0X94_fpneUJ42cJA/edit?utm_content=DAFxarj5HIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 - 💬 Ask me about **.NET, React.js, Next,js ,Flutter**
 
 - 📫 How to reach me **kadirhansaglam0@gmail.com**
