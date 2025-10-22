@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kadirhan</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Angular.js**
-
-- 💬 Ask me about **.NET, React.js, Next,js ,Flutter**
+- 💬 Ask me about **.NET, React.js, Flutter**
 
 - 📫 How to reach me **kadirhansaglam0@gmail.com**
 
